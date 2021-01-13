@@ -43,7 +43,7 @@ O  desafio de organizar a estrutura de pastas do projeto conforme implementada p
 
 ###### Arquitetura Padrão do MDD
 
-![TEST](C:\Users\JM2\Documents\repositorios\zExtras\Desenvolvendo sua aplicação com C# usando DDD\aplicacao-C#-DDD\imgMMD\ArquiteturaPadrãodoMDD.jpg)
+![Arquitetura Padrão do MDD](https://github.com/JM-2/aplicacao-Csharp-DDD/blob/master/imgMMD/ArquiteturaPadr%C3%A3odoMDD.jpg)
 
 #### Regras para Modelagem do Domínio
 
