@@ -42,7 +42,7 @@ O  desafio de organizar a estrutura de pastas do projeto conforme implementada p
 - **Infra-estrutura -** fornece recursos técnicos que darão suporte às camadas superiores. São normalmente as partes de um sistema responsáveis por persistência de dados, conexões com banco de dados, envio de mensagens por redes, gravação e leitura de discos, etc.
 
 ###### Arquitetura Padrão do MDD
-
+![Arquitetura](https://github.com/JM-2/DDD-Csharp/blob/master/imgMMD/arquit.png)
 ![Arquitetura Padrão do MDD](https://github.com/JM-2/aplicacao-Csharp-DDD/blob/master/imgMMD/ArquiteturaPadr%C3%A3odoMDD.jpg)
 
 #### Regras para Modelagem do Domínio
